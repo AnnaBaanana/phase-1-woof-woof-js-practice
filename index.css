@@ -51,3 +51,10 @@
 body {
   margin: 0;
 }
+
+#dogBtn {
+  background-color: orange;
+  font: black;
+  height: 25px;
+  width: 50px;
+}
